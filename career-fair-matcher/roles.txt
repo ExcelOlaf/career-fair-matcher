@@ -1,0 +1,102 @@
+Company: Lakeshore Building Systems (Milwaukee, WI)
+Industry: Commercial building automation and HVAC controls
+
+---
+Role: Data Analyst I (Entry Level)
+Location: Milwaukee, WI (Hybrid)
+Experience: 0-2 years
+
+About the role:
+Turn equipment and service data into dashboards that help our operations team spot problems early.
+
+Responsibilities:
+- Build and maintain Power BI dashboards for service and equipment performance
+- Write SQL queries to pull and clean data from our data warehouse
+- Work with field teams to understand what metrics matter to them
+- Present findings to non-technical stakeholders
+
+Requirements:
+- Bachelor's in Computer Science, Statistics, Data Science, or related field
+- Experience with Power BI or Tableau
+- Working knowledge of SQL
+- Python or R is a plus
+
+---
+Role: Junior Software Developer
+Location: Milwaukee, WI (On-site)
+Experience: 0-2 years
+
+About the role:
+Help build internal tools our technicians and project managers use every day.
+
+Responsibilities:
+- Build and maintain web applications using React and C#/.NET
+- Write and test APIs that connect our tools to internal databases
+- Fix bugs and improve existing internal tools
+- Participate in code reviews
+
+Requirements:
+- Bachelor's in Computer Science or related field
+- Experience with JavaScript/React or C#/.NET
+- Understanding of REST APIs and relational databases
+- Internship or project experience building software
+
+---
+Role: Automation Engineer, Power Platform
+Location: Milwaukee, WI (Hybrid)
+Experience: 1-3 years
+
+About the role:
+Automate manual business processes across finance, service, and operations.
+
+Responsibilities:
+- Build workflows with Power Automate and apps with Power Apps
+- Connect systems like SharePoint, ServiceNow, and SQL databases
+- Gather requirements from business users and document processes
+- Maintain and support existing automations
+
+Requirements:
+- Bachelor's degree in a technical field
+- Hands-on experience with Power Automate or similar low-code tools
+- Familiarity with ServiceNow is a plus
+- Strong communication skills
+
+---
+Role: Senior Data Engineer
+Location: Milwaukee, WI (Hybrid)
+Experience: 6+ years
+
+About the role:
+Lead the design of our cloud data platform and mentor junior engineers.
+
+Responsibilities:
+- Architect and own data pipelines on Azure (Data Factory, Databricks, Synapse)
+- Set data engineering standards and lead technical design reviews
+- Mentor a team of 3-4 data engineers
+- Partner with leadership on long-term data strategy
+
+Requirements:
+- 6+ years of professional data engineering experience
+- Expert-level SQL and Python
+- Production experience with Spark and Azure data services
+- Prior experience leading a team
+
+---
+Role: Mechanical Design Engineer
+Location: Milwaukee, WI (On-site)
+Experience: 2-4 years
+
+About the role:
+Design HVAC equipment components and support manufacturing.
+
+Responsibilities:
+- Create 3D models and drawings in SolidWorks
+- Perform thermal and airflow calculations
+- Work with manufacturing on part tolerances and production issues
+- Support product testing in our lab
+
+Requirements:
+- Bachelor's in Mechanical Engineering
+- 2+ years of SolidWorks experience
+- Knowledge of HVAC systems and thermodynamics
+- PE license is a plus
